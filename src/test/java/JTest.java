@@ -5,5 +5,6 @@ public class JTest {
     public static void main(String[] args) {
         String str = new String();
         System.out.println("args = [" + args + "]");
+        System.out.println("args = [" + args + "]");
     }
 }
